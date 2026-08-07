@@ -1,0 +1,6 @@
+com\cid\core\security\SecurityAutoConfiguration.class
+com\cid\core\security\JwtException.class
+com\cid\core\security\JwtProperties.class
+com\cid\core\security\JwtService.class
+com\cid\core\annotation\EnableCidSecurity.class
+com\cid\core\security\TokenPair.class
